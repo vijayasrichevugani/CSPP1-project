@@ -1,0 +1,24 @@
+2018-05-03 12:22:06.165000
+
+Plagiarism check
+
+As per BagOfWords technique:
+
+Name of the file	hari.txt	priya.txt	vijayasri.txt
+hari.txt        	None    	78.26    	78.26        
+priya.txt       	78.26   	None     	78.26        
+vijayasri.txt   	78.26   	78.26    	None         
+
+As per LargestCommonSubstring technique when computed character by character:
+
+Name of file 	hari.txt	priya.txt	vijayasri.txt
+hari.txt     	None    	29.91    	33.64        
+priya.txt    	29.91   	None     	28.57        
+vijayasri.txt	33.64   	28.57    	None         
+
+As per LargestCommonSubstring technique when computed word by word:
+
+Name of file 	hari.txt	priya.txt	vijayasri.txt
+hari.txt     	None    	22.43    	22.43        
+priya.txt    	22.43   	None     	21.43        
+vijayasri.txt	22.43   	21.43    	None         
